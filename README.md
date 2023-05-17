@@ -33,3 +33,6 @@ To install the requirements, run the following command in your terminal:
 
 ### License
 This project is licensed under the MIT License.
+
+
+![Demo GIF](2.gif)
