@@ -35,4 +35,4 @@ To install the requirements, run the following command in your terminal:
 This project is licensed under the MIT License.
 
 
-![Demo GIF](2.gif)
+![Demo GIF](3.gif)
